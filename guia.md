@@ -15,7 +15,7 @@
 * Fazer download de firmware específico para o roteador
 
     * http://stable.openwrt.piratebox.de/auto/
-    * Procurar por WR703N
+    * Procurar por WR703N, arquivo com final .bin
 
 
 * Baixar Software do PirateBox
