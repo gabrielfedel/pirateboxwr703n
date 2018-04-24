@@ -1,10 +1,10 @@
 % Tutorial de Instalação de Pirate Box
-% Roteador TP-Link WR307N
+% Roteador TP-Link WR703N
 
 
 # Material necessário
 
-* Roteador TP-Link Wr307N ([confirmar se o modelo é compatível com OpenWrt](https://wiki.openwrt.org/toh/tp-link/tl-wr703n))
+* Roteador TP-Link Wr703N ([confirmar se o modelo é compatível com OpenWrt](https://wiki.openwrt.org/toh/tp-link/tl-wr703n))
 * Cabo de Rede
 * Pendrive Vazio (formatado com FAT 32)
 * Computador (Linux, Mac, ou então Windows com o software Putty)
